@@ -98,15 +98,4 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
-## 📌 Future Improvements
-
-* Hyperparameter tuning
-* Cross-validation
-* Feature importance analysis
-* Explainable AI (SHAP/LIME)
-* Cloud deployment
-* Deep Learning models
-
----
-
 ⭐ Feel free to explore the project, provide feedback, or contribute!
