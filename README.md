@@ -97,5 +97,9 @@ Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
+## 🚀 Live Demo
+
+**Application:** https://mini-project-diabetic-retinopathy-oyzc.onrender.com/
+
 
 ⭐ Feel free to explore the project, provide feedback, or contribute!
