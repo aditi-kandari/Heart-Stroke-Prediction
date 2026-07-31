@@ -99,7 +99,7 @@ streamlit run app.py
 ```
 ## 🚀 Live Demo
 
-**Application:** https://mini-project-diabetic-retinopathy-oyzc.onrender.com/
+**Application:**https://heart-stroke-prediction-44e2.onrender.com
 
 
 ⭐ Feel free to explore the project, provide feedback, or contribute!
